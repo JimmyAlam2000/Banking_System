@@ -311,12 +311,6 @@ The file is:
 
 ---
 
-## License
-
-This project is intended for **educational purposes**. Feel free to use, modify, and distribute it freely.
-
----
-
 <div align="center">
   <sub>Built with C++ • Console Application • File-based Persistence</sub>
 </div>
